@@ -1,4 +1,4 @@
-# Consumer-Complaints_Classification
+# Consumer-Complaints-Classification
 This is a NLP Project contains concepts Tokenization, Stemming, Lemmatization, Vectorization.
 
 ## What we want as the outcome?
